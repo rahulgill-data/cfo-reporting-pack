@@ -1,0 +1,79 @@
+BOOKING HOLDINGS — CFO MONTHLY COMMENTARY
+Period: YTD Jan–Sep-2025
+Source: 10-K FY2025, SEC EDGAR | Currency: EUR millions
+Generated: 27 Jun 2026
+=================================================================
+
+1. EXECUTIVE SUMMARY
+
+Booking Holdings delivered YTD revenue of EUR 23,131M against a budget of
+EUR 23,478M, a shortfall of EUR 347M (-1.5%). While the headline miss is
+modest, it masks a more nuanced picture: Merchant revenue outperformed by
+EUR 332M, fully in line with the strategic shift underway, while Agency
+revenue came in EUR 732M below plan as the structural decline accelerated
+faster than budgeted. Operating income of EUR 8,950M represents a margin
+of 38.7% — below the budgeted 41.5%, but broadly acceptable given the
+cost pressures from the Merchant mix shift. Year-on-year revenue growth of
++26.6% confirms the underlying business momentum remains strong.
+
+2. REVENUE ANALYSIS
+
+Merchant revenue of EUR 16,692M exceeded budget by EUR 332M (+2.0%), driven
+by strong EU accommodation volumes and continued customer preference for the
+prepaid Merchant model over the traditional Agency arrangement. This
+outperformance is strategically significant: Merchant revenue carries higher
+payment processing costs but delivers more predictable cash flow and greater
+customer data visibility, both of which underpin the company's long-term
+competitive positioning. Agency revenue of EUR 5,508M fell EUR 732M short
+of budget (-11.7%), reflecting a faster-than-anticipated structural decline
+as accommodation partners accelerate migration to the Merchant channel. This
+is not a demand signal — it is a mix shift — and management should resist
+the temptation to re-budget Agency revenue upward in the H2 refresh.
+Advertising and other revenue came in EUR 53M above budget (+6.0%), a
+pleasing contribution from KAYAK referral volumes and OpenTable subscription
+growth that partially offsets the Agency shortfall.
+
+3. COST & MARGIN ANALYSIS
+
+Total costs ran EUR 448M above budget (+3.3%), driven by two principal
+items. Performance marketing (paid search and Meta) overran by EUR 265M
+(+4.6%), reflecting increased bidding activity in Q3 peak season to defend
+market share against OTA competitors; at 30.3% of revenue this sits 1.8
+percentage points above the internal 30% efficiency target and warrants
+close monitoring through Q4. Payment processing costs overran by EUR 210M
+(+9.3%), a direct and largely unavoidable consequence of the Merchant
+revenue outperformance — as Merchant volumes grow, interchange and gateway
+fees grow proportionally, and this cost behaviour was undermodelled in the
+original budget. G&A came in EUR 122M below budget (-16.9%), partially
+offsetting the above items; this underspend reflects the non-recurrence of
+the Italian regulatory settlement provision that inflated the FY2024 base.
+The net effect is an operating margin of 38.7%, 2.8 percentage points below
+budget but still amongst the highest in the global OTA sector.
+
+4. KEY RISKS & WATCHPOINTS
+
+- Marketing efficiency: Performance marketing at 30.3% of revenue is above
+  the 30% ceiling. If Q4 competitive intensity remains elevated — particularly
+  around holiday and New Year travel — full-year marketing spend could exceed
+  EUR 9.5B, compressing the full-year margin below 35%.
+
+- Agency revenue acceleration: The -11.7% Agency shortfall vs budget is
+  running materially ahead of the planned migration curve. If H2 Agency
+  volumes decline at a similar rate, full-year Agency revenue could miss
+  the annual budget by EUR 1.2–1.4B, partially offset by Merchant upside.
+
+- Payment processing cost trajectory: At +9.3% above budget, payment costs
+  are growing faster than Merchant revenue (+2.0%). The unit economics of
+  the Merchant model need to be reviewed in the annual budget cycle to
+  ensure the processing cost assumptions reflect current interchange rates.
+
+5. OUTLOOK
+
+Full-year FY2025 revenue of EUR 24,926M has already been confirmed per the
+10-K filing, representing +13.4% YoY growth and validating the underlying
+demand environment. For the remainder of the planning cycle, the priority
+should be holding marketing spend within the 30% efficiency threshold in Q4
+and ensuring the Merchant mix shift continues to be reflected accurately in
+forward budget assumptions. The business is performing well on the metrics
+that matter most — volume growth, Merchant penetration, and margin
+resilience — and is well-positioned to deliver on its full-year commitments.
